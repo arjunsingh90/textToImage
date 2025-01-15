@@ -18,8 +18,10 @@ import cross_icon from './cross_icon.svg'
 import star_group from './star_group.png'
 import credit_star from './credit_star.svg'
 import profile_icon from './profile_icon.png'
+import Visionary_LOGO from './Visionary_LOGO.png'
 
 export const assets = {
+    Visionary_LOGO,
     logo,
     logo_icon,
     facebook_icon,
